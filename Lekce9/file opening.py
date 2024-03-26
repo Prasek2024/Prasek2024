@@ -12,3 +12,5 @@ file = open('../test.txt', 'a')
 file.write("/n druhy radek")
 file.close()
 print(data)
+
+
