@@ -4,22 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="31415d83-fe11-4934-bb4e-bc2931b47835" name="Changes" comment="zmeny9,4,2021">
-      <change afterPath="$PROJECT_DIR$/Lekce10/Bank_account/bank_account.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lekce10/Bank_account/saving_account.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lekce10/animals/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lekce10/animals/animal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lekce10/animals/cat.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lekce10/animals/dog.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lekce10/calculator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lekce10/main_Bank_account.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lekce10/main_animal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lekce10/main_calculator.py" afterDir="false" />
+    <list default="true" id="31415d83-fe11-4934-bb4e-bc2931b47835" name="Changes" comment="zmeny 10 9,4,2021">
       <change beforePath="$PROJECT_DIR$/../OOP" beforeDir="false" afterPath="$PROJECT_DIR$/../OOP" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../OOP2" beforeDir="false" afterPath="$PROJECT_DIR$/../OOP2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lekce10/OOP2main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lekce10/Bank_account/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -214,7 +201,9 @@
     <MESSAGE value="zmeny" />
     <MESSAGE value="zmeny2" />
     <MESSAGE value="zmeny9,4,2021" />
-    <option name="LAST_COMMIT_MESSAGE" value="zmeny9,4,2021" />
+    <MESSAGE value="zmeny10 9,4,2021" />
+    <MESSAGE value="zmeny 10 9,4,2021" />
+    <option name="LAST_COMMIT_MESSAGE" value="zmeny 10 9,4,2021" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
