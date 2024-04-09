@@ -37,5 +37,9 @@ class Calculator:
     def avarage(a , b, c, d):
         return (a + b + c + d) / 2
 
+    @staticmethod
+    def largest(a, b, c, d):
+        return max(a, b, c, d)
+
 
 

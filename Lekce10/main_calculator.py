@@ -21,3 +21,6 @@ print(d, " - vysledek factorial metody")
 e = Calculator.avarage(4, 8, 10,12)
 print(e, " - vysledek avarage metody")
 
+print(Calculator.largest(4, 8, 10,12), " - vysledek largest metody")
+
+
