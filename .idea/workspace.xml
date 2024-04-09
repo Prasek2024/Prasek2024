@@ -5,9 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="31415d83-fe11-4934-bb4e-bc2931b47835" name="Changes" comment="zmeny9,4,2021">
+      <change afterPath="$PROJECT_DIR$/Lekce10/Bank_account/bank_account.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lekce10/Bank_account/saving_account.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lekce10/animals/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lekce10/animals/animal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lekce10/animals/cat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lekce10/animals/dog.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lekce10/calculator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lekce10/main_Bank_account.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lekce10/main_animal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lekce10/main_calculator.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../OOP" beforeDir="false" afterPath="$PROJECT_DIR$/../OOP" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../OOP2" beforeDir="false" afterPath="$PROJECT_DIR$/../OOP2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$" beforeDir="false" afterPath="$PROJECT_DIR$" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lekce10/OOP2main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lekce10/Bank_account/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +64,9 @@
   &quot;associatedIndex&quot;: 0
 }</component>
   <component name="ProjectId" id="2eEgTt3vaUT8pQV1Q2DIFIvZdGb" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -60,6 +74,9 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.main.executor": "Run",
+    "Python.main_Bank_account.executor": "Run",
+    "Python.main_animal.executor": "Run",
+    "Python.main_calculator.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "OOP2",
@@ -72,6 +89,9 @@
       <recent name="C:\Users\PY-TU-01-24\Desktop\GIT HUB\Prasek2024\pythonProject1\Lekce9" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\PY-TU-01-24\Desktop\GIT HUB\Prasek2024\pythonProject1\Lekce10" />
+      <recent name="C:\Users\PY-TU-01-24\Desktop\GIT HUB\Prasek2024\pythonProject1\Lekce10\animals" />
+      <recent name="C:\Users\PY-TU-01-24\Desktop\GIT HUB\Prasek2024\pythonProject1" />
       <recent name="C:\Users\PY-TU-01-24\Desktop\GIT HUB\Prasek2024\pythonProject1\Lekce9" />
     </key>
   </component>
@@ -155,7 +175,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711483586837</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="zmeny9,4,2021">
+      <option name="closed" value="true" />
+      <created>1712680623889</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1712680623889</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
