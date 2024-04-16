@@ -62,26 +62,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.Closures.executor": "Run",
-    "Python.Decorater day time jako decorater.executor": "Run",
-    "Python.Decorater task day time.executor": "Run",
-    "Python.Decorater.executor": "Run",
-    "Python.Functors.executor": "Run",
-    "Python.Math Functor.executor": "Run",
-    "Python.main.executor": "Run",
-    "Python.main_Bank_account.executor": "Run",
-    "Python.main_animal.executor": "Run",
-    "Python.main_calculator.executor": "Run",
-    "Python.main_smartwatch.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "OOP3",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/PY-TU-01-24/Desktop/GIT HUB/Prasek2024/pythonProject1/Lekce9"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Closures.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Decorater day time jako decorater.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Decorater task day time.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Decorater.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Functors.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Math Functor.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main_Bank_account.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main_animal.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main_calculator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main_smartwatch.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;OOP3&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/PY-TU-01-24/Desktop/GIT HUB/Prasek2024/pythonProject1/Lekce9&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\PY-TU-01-24\Desktop\GIT HUB\Prasek2024\pythonProject1\Lekce9" />
