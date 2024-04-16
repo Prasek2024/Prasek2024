@@ -34,7 +34,7 @@ def deserialize(file_name):
 # Main execution
 try:
     # Define file name
-    file_name = "employee.dat"
+    file_name = "json_test_data.dat"
     # Define dictionary to store employee data
     c = Car("audi", "black")
     # Serialize and save the employee dictionary to a file

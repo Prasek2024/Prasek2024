@@ -73,7 +73,8 @@ print(open('reversed_text_file.txt', 'r').read())
 
 def reverse(source_file, dest_file):
     print("read data from file")
-    file_handler = open(source_file, 'r')
+    fi
+"""le_handler = open(source_file, 'r')
     data = file_handler.readlines()
     file_handler.close()
 
@@ -91,7 +92,6 @@ def reverse(source_file, dest_file):
 reverse('Lekce11/text_file.txt', 'Lekce11/reversed_text_file2.txt')
 print(open('Lekce11/reversed_text_file2.txt', 'r').read())
 
-"""
 
 
 
