@@ -1,4 +1,4 @@
-from Lekce10.smartwatch import *
+from Lekce12.smartwatch import *
 
 print("waterfproof smartwatch")
 

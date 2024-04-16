@@ -1,4 +1,4 @@
-from Lekce10.Bank_account import *
+from Lekce12.Bank_account import *
 
 b = BankAccount(100)
 b2 = BankAccount(200)

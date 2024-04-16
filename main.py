@@ -88,8 +88,8 @@ def reverse(source_file, dest_file):
     print("finished")
 
 
-reverse('Lekce9/text_file.txt', 'Lekce9/reversed_text_file2.txt')
-print(open('Lekce9/reversed_text_file2.txt', 'r').read())
+reverse('Lekce11/text_file.txt', 'Lekce11/reversed_text_file2.txt')
+print(open('Lekce11/reversed_text_file2.txt', 'r').read())
 
 """
 

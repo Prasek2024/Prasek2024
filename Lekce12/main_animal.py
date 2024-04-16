@@ -1,4 +1,4 @@
-from Lekce10.animals import *
+from Lekce12.animals import *
 
 a = Animal()
 
