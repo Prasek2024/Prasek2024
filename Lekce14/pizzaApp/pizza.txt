@@ -1,0 +1,27 @@
+# task pizza
+
+#menu concept
+# 1. zadat novou objednavku
+# 2. zjisti stav objednavky
+# 3. vyridit objednavku
+# 4. vytvorit seznam objednavek
+
+#app tool
+
+# class Pizza, class Topping
+# class Price
+# class Order
+# class Queue
+
+
+# 1. vytisknout menu
+# 2. vytisknou polozky k objednani - pizza menu
+# 3. vytisknout objednavkovy formular
+# 4.
+
+# zjistit stav objednavky check_order_state
+
+# odbaveni objendavky delete_order
+
+#*****************************************************************
+
