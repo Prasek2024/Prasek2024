@@ -4,11 +4,37 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="31415d83-fe11-4934-bb4e-bc2931b47835" name="Changes" comment="zmeny 10 9,4,2021">
+    <list default="true" id="31415d83-fe11-4934-bb4e-bc2931b47835" name="Changes" comment="zmeny 10 16/4 2024">
       <change beforePath="$PROJECT_DIR$/../OOP" beforeDir="false" afterPath="$PROJECT_DIR$/../OOP" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../OOP2" beforeDir="false" afterPath="$PROJECT_DIR$/../OOP2" afterDir="false" />
       <change beforePath="$PROJECT_DIR$" beforeDir="false" afterPath="$PROJECT_DIR$" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lekce10/Bank_account/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lekce12/Bank_account/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lekce10/Bank_account/bank_account.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lekce12/Bank_account/bank_account.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lekce10/Bank_account/saving_account.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lekce12/Bank_account/saving_account.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lekce10/animals/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lekce12/animals/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lekce10/animals/animal.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lekce12/animals/animal.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lekce10/animals/cat.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lekce12/animals/cat.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lekce10/animals/dog.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lekce12/animals/dog.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lekce10/calculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lekce12/calculator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lekce10/main_Bank_account.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lekce12/main_Bank_account.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lekce10/main_animal.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lekce12/main_animal.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lekce10/main_calculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lekce12/main_calculator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lekce10/main_smartwatch.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lekce12/main_smartwatch.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lekce10/smartwatch/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lekce12/smartwatch/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lekce10/smartwatch/turn_off.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lekce12/smartwatch/turn_off.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lekce10/smartwatch/turn_on.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lekce12/smartwatch/turn_on.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lekce10/smartwatch/waterproof.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lekce12/smartwatch/waterproof.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lekce9/7 letter word from source file to dest file.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lekce11/7 letter word from source file to dest file.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lekce9/7_letters_words.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Lekce11/7_letters_words.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lekce9/file opening.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lekce11/file opening.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lekce9/reverse data from source to dest file.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lekce11/reverse data from source to dest file.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lekce9/reversed_text_file.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Lekce11/reversed_text_file.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lekce9/reversed_text_file2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Lekce11/reversed_text_file2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lekce9/test.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Lekce11/test.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lekce9/text file 7 letters word from source file.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lekce11/text file 7 letters word from source file.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lekce9/text_file.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Lekce11/text_file.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,7 +51,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="OOP2" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -60,28 +86,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main_Bank_account.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main_animal.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main_calculator.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main_smartwatch.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;OOP2&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/PY-TU-01-24/Desktop/GIT HUB/Prasek2024/pythonProject1/Lekce9&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.main.executor": "Run",
+    "Python.main_Bank_account.executor": "Run",
+    "Python.main_animal.executor": "Run",
+    "Python.main_calculator.executor": "Run",
+    "Python.main_smartwatch.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "OOP3",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/PY-TU-01-24/Desktop/GIT HUB/Prasek2024/pythonProject1/Lekce9"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\PY-TU-01-24\Desktop\GIT HUB\Prasek2024\pythonProject1\Lekce9" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\PY-TU-01-24\Desktop\GIT HUB\Prasek2024\pythonProject1" />
       <recent name="C:\Users\PY-TU-01-24\Desktop\GIT HUB\Prasek2024\pythonProject1\Lekce10" />
       <recent name="C:\Users\PY-TU-01-24\Desktop\GIT HUB\Prasek2024\pythonProject1\Lekce10\animals" />
-      <recent name="C:\Users\PY-TU-01-24\Desktop\GIT HUB\Prasek2024\pythonProject1" />
       <recent name="C:\Users\PY-TU-01-24\Desktop\GIT HUB\Prasek2024\pythonProject1\Lekce9" />
     </key>
   </component>
@@ -197,7 +223,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712689863428</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="zmeny 10 16/4 2024">
+      <option name="closed" value="true" />
+      <created>1713283713671</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1713283713671</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -231,7 +265,8 @@
     <MESSAGE value="zmeny10 9,4,2021" />
     <MESSAGE value="zmeny 11 9,4,2021" />
     <MESSAGE value="zmeny 10 9,4,2021" />
-    <option name="LAST_COMMIT_MESSAGE" value="zmeny 10 9,4,2021" />
+    <MESSAGE value="zmeny 10 16/4 2024" />
+    <option name="LAST_COMMIT_MESSAGE" value="zmeny 10 16/4 2024" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
