@@ -4,37 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="31415d83-fe11-4934-bb4e-bc2931b47835" name="Changes" comment="zmeny 10 16/4 2024">
+    <list default="true" id="31415d83-fe11-4934-bb4e-bc2931b47835" name="Changes" comment="zmeny 10 16/4 2024&#10;Merge remote-tracking branch 'origin/main'">
+      <change afterPath="$PROJECT_DIR$/Lekce13/Decorater.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lekce13/Functors.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lekce13/Math Functor.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../OOP" beforeDir="false" afterPath="$PROJECT_DIR$/../OOP" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../OOP2" beforeDir="false" afterPath="$PROJECT_DIR$/../OOP2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$" beforeDir="false" afterPath="$PROJECT_DIR$" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lekce10/Bank_account/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lekce12/Bank_account/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lekce10/Bank_account/bank_account.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lekce12/Bank_account/bank_account.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lekce10/Bank_account/saving_account.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lekce12/Bank_account/saving_account.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lekce10/animals/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lekce12/animals/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lekce10/animals/animal.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lekce12/animals/animal.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lekce10/animals/cat.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lekce12/animals/cat.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lekce10/animals/dog.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lekce12/animals/dog.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lekce10/calculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lekce12/calculator.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lekce10/main_Bank_account.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lekce12/main_Bank_account.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lekce10/main_animal.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lekce12/main_animal.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lekce10/main_calculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lekce12/main_calculator.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lekce10/main_smartwatch.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lekce12/main_smartwatch.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lekce10/smartwatch/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lekce12/smartwatch/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lekce10/smartwatch/turn_off.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lekce12/smartwatch/turn_off.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lekce10/smartwatch/turn_on.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lekce12/smartwatch/turn_on.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lekce10/smartwatch/waterproof.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lekce12/smartwatch/waterproof.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lekce9/7 letter word from source file to dest file.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lekce11/7 letter word from source file to dest file.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lekce9/7_letters_words.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Lekce11/7_letters_words.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lekce9/file opening.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lekce11/file opening.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lekce9/reverse data from source to dest file.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lekce11/reverse data from source to dest file.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lekce9/reversed_text_file.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Lekce11/reversed_text_file.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lekce9/reversed_text_file2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Lekce11/reversed_text_file2.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lekce9/test.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Lekce11/test.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lekce9/text file 7 letters word from source file.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lekce11/text file 7 letters word from source file.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lekce9/text_file.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Lekce11/text_file.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,6 +64,10 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.Closures.executor": "Run",
+    "Python.Decorater.executor": "Run",
+    "Python.Functors.executor": "Run",
+    "Python.Math Functor.executor": "Run",
     "Python.main.executor": "Run",
     "Python.main_Bank_account.executor": "Run",
     "Python.main_animal.executor": "Run",
@@ -231,7 +211,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713283713671</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="zmeny 10 16/4 2024&#10;Merge remote-tracking branch 'origin/main'">
+      <option name="closed" value="true" />
+      <created>1713285273606</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1713285273606</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -266,7 +254,8 @@
     <MESSAGE value="zmeny 11 9,4,2021" />
     <MESSAGE value="zmeny 10 9,4,2021" />
     <MESSAGE value="zmeny 10 16/4 2024" />
-    <option name="LAST_COMMIT_MESSAGE" value="zmeny 10 16/4 2024" />
+    <MESSAGE value="zmeny 10 16/4 2024&#10;Merge remote-tracking branch 'origin/main'" />
+    <option name="LAST_COMMIT_MESSAGE" value="zmeny 10 16/4 2024&#10;Merge remote-tracking branch 'origin/main'" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
