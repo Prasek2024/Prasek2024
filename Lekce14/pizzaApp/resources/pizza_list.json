@@ -1,0 +1,19 @@
+[
+  {"name": "Margerita",
+    "toppings": [
+    {"name": "chess",
+      "price": {
+        "integer": 10,
+        "fraction": 50}}]},
+  {"name": "Quatroformagi",
+    "toppings": [
+      {"name": "chess",
+        "price": {
+          "integer": 10,
+          "fraction": 50}},
+      {"name": "Chedar",
+        "price": {
+          "integer": 15,
+          "fraction": 50}}
+    ]}
+]
