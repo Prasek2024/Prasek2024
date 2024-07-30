@@ -5,7 +5,8 @@
 
 **create project:**    django-admin startproject project-name
 
-**create app:**        py manage.py startapp app-name
+**create app:**        
+app-name
 
 **start project:**     py manage.py runserver 8000
 
